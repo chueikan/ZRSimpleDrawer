@@ -1,3 +1,4 @@
 
 一个简单的iOS分页抽屉效果。
->>>>>>> 42b476124371109117c15bffd4220baa0a6d2a5f
+
+<!--[ScreenShot]:https://github.com/van7ish/ZRSimpleDrawer/blob/master/ScreenShot/SimpleDrawer.gif "ScreenShot"-->
